@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>TPS</origin>
+				<pubdate>2010</pubdate>
+				<title Sync="TRUE">Toronto_Police_Facilities_WGS84</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<publish>LIT</publish>
+				</pubinfo>
+				<onlink>Server=litview; Service=5163; User=xdat; Version=SDE.DEFAULT</onlink>
+				<ftname Sync="TRUE">Toronto_Police_Facilities_WGS84</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Police Stations locations in the City of Toronto</abstract>
+			<purpose>To fulfill a wide variety of City of Toronto administrative, planning and operational requirements</purpose>
+			<supplinf>Geospatial Viewing Repository running Oracle 9 and SDE3 on a Sun with Solaris operating system.</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2010</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>2010</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-79.583521</westbc>
+				<eastbc Sync="TRUE">-79.174057</eastbc>
+				<northbc Sync="TRUE">43.789376</northbc>
+				<southbc Sync="TRUE">43.605086</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-79.583521</leftbc><rightbc Sync="TRUE">-79.174057</rightbc><bottombc Sync="TRUE">43.605086</bottombc><topbc Sync="TRUE">43.789376</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt>
+				<themekey>police stations</themekey>
+			</theme>
+			<place>
+				<placekey>Toronto</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>Source must be credited. Cannot be re-sold</useconst>
+		<browse>
+		</browse>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</native>
+		<natvform Sync="TRUE">Shapefile</natvform><ptcontac><cntinfo><cntorgp><cntorg>opendata@toronto.ca</cntorg></cntorgp></cntinfo></ptcontac></idinfo>
+	<dataqual>
+		<posacc>
+			<horizpa>
+				<qhorizpa>
+					<horizpav>Unknown</horizpav>
+				</qhorizpa>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<pubdate>1996-2000</pubdate>
+						<geoform>Digital Vector Data</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>N/A</srcscale>
+				<typesrc>Re-compiled data sets in comma-delimited ASCII files, created and verified in-house.</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>N/A</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr></srctime>
+				<srccontr>Digital file converted to an ARC/INFO coverage.</srccontr>
+			</srcinfo>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\Lostoma\LOCALS~1\Temp\xml53B.tmp</srcused><procdate Sync="TRUE">20101022</procdate><proctime Sync="TRUE">14302300</proctime></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="Toronto_Police_Facilities_WGS84">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">30</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="Toronto_Police_Facilities_WGS84"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Point</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">30</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn></cordsysn><geograph><geogunit Sync="TRUE">Decimal degrees</geogunit><latres Sync="TRUE">0.000000</latres><longres Sync="TRUE">0.000000</longres></geograph></horizsys>
+		<vertdef>
+			<altsys>
+				<altres>1.000000</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="Toronto_Police_Facilities_WGS84">
+			<enttyp>
+				<enttypl Sync="TRUE">Toronto_Police_Facilities_WGS84</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">30</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">PROVIDER</attrlabl><attalias Sync="TRUE">PROVIDER</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr><attr><attrlabl Sync="TRUE">FULL_ADDRE</attrlabl><attalias Sync="TRUE">FULL_ADDRE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr><attr><attrlabl Sync="TRUE">LABEL</attrlabl><attalias Sync="TRUE">LABEL</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr><attr><attrlabl Sync="TRUE">P_Code</attrlabl><attalias Sync="TRUE">P_Code</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">8</attwidth></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>liveData</resdesc>
+		<stdorder>
+			<nondig>Paper plots or reports</nondig>
+			<fees>N/A</fees>
+			<ordering>Customized and standard exports are available. They may be on various media and in various formats.</ordering>
+			<turnarnd>Varies</turnarnd>
+			<digform><digtinfo><transize Sync="TRUE">0.001</transize><dssize Sync="TRUE">0.001</dssize></digtinfo></digform></stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20101022</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>opendata@toronto.ca</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>703 Don Mills</address>
+					<city>Toronto</city>
+					<state>Ontario</state>
+					<postal>M3C 3N3</postal>
+					<country>Canada</country>
+				</cntaddr>
+				<cntemail>opendata@toronto.ca</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{B49BB466-CCBE-4C84-A13D-6F50227D5335}</MetaID><CreaDate>20101022</CreaDate><CreaTime>14302300</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20101022</SyncDate><SyncTime>14402500</SyncTime><ModDate>20101022</ModDate><ModTime>14402500</ModTime></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">Toronto_Police_Facilities_WGS84</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-79.583521</westBL><eastBL Sync="TRUE">-79.174057</eastBL><northBL Sync="TRUE">43.789376</northBL><southBL Sync="TRUE">43.605086</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-79.583521</westBL><eastBL Sync="TRUE">-79.174057</eastBL><northBL Sync="TRUE">43.789376</northBL><southBL Sync="TRUE">43.605086</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\J2XD0060987\D$\open_data\temp\Toronto_Police_Facilities_WGS84.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.001</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_WGS_1984</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="Toronto_Police_Facilities_WGS84"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">30</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20101022</mdDateSt></metadata>
